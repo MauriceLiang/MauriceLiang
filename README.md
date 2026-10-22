@@ -2,21 +2,22 @@
 
 # Maurice Liang
 
-**Software Engineering Student · Java Backend · Python · AI-Assisted Development**
+**Software Engineering Student · Backend & Full-Stack Development · AI Applications**
 
 </div>
 
-I’m a Software Engineering student currently building a stronger foundation in **Java backend development, middleware, Python, and software engineering**. I use AI-assisted coding as part of my development workflow while continuing to understand the code, architecture, and underlying concepts.
+I’m a Software Engineering student interested in building practical software across backend systems, desktop applications, and AI-powered products. My recent projects span Rust/Tauri desktop development, Python/FastAPI applications for GitHub analysis and evidence-grounded RAG, and a Java/Spring Boot interview practice platform. I enjoy working across APIs, data workflows, and user-facing features while strengthening my software engineering fundamentals.
 
-**Currently working with:** `Java` · `Spring Boot` · `MySQL` · `Redis` · `RabbitMQ` · `Python` · `FastAPI` · `Vue` · `Rust` · `Tauri` · `Docker`
+**Currently working with:** `Java` · `Spring Boot` · `Python` · `FastAPI` · `Rust` · `Tauri` · `Vue` · `TypeScript` · `MySQL` · `Redis` · `RabbitMQ` · `SQLite` · `Docker`
 
 ### Projects
 
 | Project | Description | Main Stack |
 | --- | --- | --- |
-| [MauLink](https://github.com/MauriceLiang/MauLink) | Local-first cross-platform SSH / SFTP desktop client with terminal, file management, and host monitoring. | Rust · Tauri · Vue · TypeScript · SQLite |
-| [LaborQA](https://github.com/MauriceLiang/LaborQA) | Evidence-first RAG platform for labor-rights Q&A with traceable retrieval results. | Python · FastAPI · LangChain · FAISS · Vue · SQLite |
-| [ZhiMian](https://github.com/MauriceLiang/interview-ai-server) | AI-powered interview practice platform with streaming interaction, scoring, resume analysis, and asynchronous reports. [Frontend](https://github.com/MauriceLiang/interview-ai-web) | Java 21 · Spring Boot · MySQL · Redis · RabbitMQ · Vue · Docker |
+| [MauLink](https://github.com/MauriceLiang/MauLink) | Local-first desktop workspace for SSH, SFTP file management, and server monitoring. | Rust · Tauri · Vue · TypeScript · SQLite |
+| [RepoVantage](https://github.com/MauriceLiang/RepoVantage) | GitHub repository analytics dashboard with activity collection, collaboration insights, and comparative visualizations. | Python · FastAPI · Vue · SQLite |
+| [LaborQA](https://github.com/MauriceLiang/LaborQA) | Evidence-first RAG assistant for labor-rights information, with traceable sources and evaluation tools. | Python · FastAPI · LangChain · FAISS · Vue · SQLite |
+| [ZhiMian](https://github.com/MauriceLiang/interview-ai-server) ([Frontend](https://github.com/MauriceLiang/interview-ai-web)) | AI interview practice platform with streaming sessions, multi-dimensional feedback, voice interaction, and asynchronous reports. | Java 21 · Spring Boot · MySQL · Redis · RabbitMQ · Vue |
 
 ### Contact
 
