@@ -1,24 +1,18 @@
-<div align="center">
-
 # Maurice Liang
 
-**Software Engineering Student · Backend & Full-Stack Development · AI Applications**
+**Software Engineering Student · Backend, Desktop & AI**
 
-</div>
+I build backend services, desktop tools, and AI applications, with an interest in local-first software and multi-agent collaboration.
 
-I’m a Software Engineering student interested in building practical software across backend systems, desktop applications, and AI-powered products. My recent projects span Rust/Tauri desktop development, Python/FastAPI applications for GitHub analysis and evidence-grounded RAG, and a Java/Spring Boot interview practice platform. I enjoy working across APIs, data workflows, and user-facing features while strengthening my software engineering fundamentals.
-
-**Currently working with:** `Java` · `Spring Boot` · `Python` · `FastAPI` · `Rust` · `Tauri` · `Vue` · `TypeScript` · `MySQL` · `Redis` · `RabbitMQ` · `SQLite` · `Docker`
+**Tech:** Java · Spring Boot · Python · FastAPI · Rust · Tauri · Swift · SwiftUI · Vue
 
 ### Projects
 
-| Project | Description | Main Stack |
-| --- | --- | --- |
-| [MauLink](https://github.com/MauriceLiang/MauLink) | Local-first desktop workspace for SSH, SFTP file management, and server monitoring. | Rust · Tauri · Vue · TypeScript · SQLite |
-| [RepoVantage](https://github.com/MauriceLiang/RepoVantage) | GitHub repository analytics dashboard with activity collection, collaboration insights, and comparative visualizations. | Python · FastAPI · Vue · SQLite |
-| [LaborQA](https://github.com/MauriceLiang/LaborQA) | Evidence-first RAG assistant for labor-rights information, with traceable sources and evaluation tools. | Python · FastAPI · LangChain · FAISS · Vue · SQLite |
-| [ZhiMian](https://github.com/MauriceLiang/interview-ai-server) ([Frontend](https://github.com/MauriceLiang/interview-ai-web)) | AI interview practice platform with streaming sessions, multi-dimensional feedback, voice interaction, and asynchronous reports. | Java 21 · Spring Boot · MySQL · Redis · RabbitMQ · Vue |
+- [MauLeaf](https://github.com/MauriceLiang/MauLeaf) — macOS menu bar app for charging limits, using batt.
+- [MauLink](https://github.com/MauriceLiang/MauLink) — SSH/SFTP desktop workspace with host monitoring.
+- [RepoVantage](https://github.com/MauriceLiang/RepoVantage) — GitHub repository analytics dashboard.
+- [LaborQA](https://github.com/MauriceLiang/LaborQA) — Evidence-first RAG for labor-rights information.
+- [ZhiMian](https://github.com/MauriceLiang/interview-ai-server) — AI interview practice with streaming interaction and feedback.
+- [VocaMesh](https://github.com/MauriceLiang/VocaMesh) — Vocafect’s local-first multi-agent project, in development; real execution is currently blocked.
 
-### Contact
-
-**Email:** [lywnbsb@163.com](mailto:lywnbsb@163.com)
+**Contact:** [lywnbsb@163.com](mailto:lywnbsb@163.com)
