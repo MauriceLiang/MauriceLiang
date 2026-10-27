@@ -13,6 +13,5 @@ I build backend services, desktop tools, and AI applications, with an interest i
 - [RepoVantage](https://github.com/MauriceLiang/RepoVantage) — GitHub repository analytics dashboard.
 - [LaborQA](https://github.com/MauriceLiang/LaborQA) — Evidence-first RAG for labor-rights information.
 - [ZhiMian](https://github.com/MauriceLiang/interview-ai-server) — AI interview practice with streaming interaction and feedback.
-- [VocaMesh](https://github.com/MauriceLiang/VocaMesh) — Vocafect’s local-first multi-agent project, in development; real execution is currently blocked.
 
 **Contact:** [lywnbsb@163.com](mailto:lywnbsb@163.com)
