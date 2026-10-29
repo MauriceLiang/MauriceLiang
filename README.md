@@ -9,7 +9,6 @@ I build backend services, desktop tools, and AI applications, with an interest i
 ### Projects
 
 - [MauLeaf](https://github.com/MauriceLiang/MauLeaf) — macOS menu bar app for charging limits, using batt.
-- [MauLink](https://github.com/MauriceLiang/MauLink) — SSH/SFTP desktop workspace with host monitoring.
 - [RepoVantage](https://github.com/MauriceLiang/RepoVantage) — GitHub repository analytics dashboard.
 - [LaborQA](https://github.com/MauriceLiang/LaborQA) — Evidence-first RAG for labor-rights information.
 - [ZhiMian](https://github.com/MauriceLiang/interview-ai-server) — AI interview practice with streaming interaction and feedback.
